@@ -1,4 +1,4 @@
-as a Financial Analyst I'll be getting involved in everything from capturing requirements, 
+as a Data Analyst focus on Financial Analyst I'll be getting involved in everything from capturing requirements, 
 
 modelling data and producing automated reports that deliver financial insights at the click of a button! 
 
