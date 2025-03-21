@@ -6,7 +6,7 @@ Our client is the finance team at PPF Corporation. We want to take them on a jou
 
 some of the challenges in working on this project are
 
-1. Ingesting the monthly CSVs stored on SharePoint/Teams, modifying the combine function to remove header rows and dealing with 
+1. Ingesting the monthly CSVs stored on on premisa data getaway, modifying the combine function to remove header rows and dealing with 
 
    dates in a different format to your local region. (E.g. working with US dates when on a PC with UK regional settings).
 
