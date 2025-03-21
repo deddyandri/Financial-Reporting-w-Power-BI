@@ -20,6 +20,10 @@ some of the challenges in working on this project are
 6. Development of key ratios (e.g. Cost:Income Ratio, Effective Tax Rate) and analysis of these by organizational unit/over
   
    time by use of a bullet chart, scatter plot, line graph and matrix which interact with each other for cross-filter analysis
+
+suppoerting source :
+
+[supporting rep #1 ](https://github.com/deddyandri/supporting-of-Financial-reporting-with-Power-BI)
    
 Table of Content
 
