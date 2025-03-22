@@ -29,3 +29,5 @@ Table of Content
 
 [1. Dataset information](https://github.com/deddyandri/Financial-Reporting-w-Power-BI/wiki)
 
+[2. Transform data](https://github.com/deddyandri/Financial-Reporting-w-Power-BI/wiki/2.-Transform-Data)
+
