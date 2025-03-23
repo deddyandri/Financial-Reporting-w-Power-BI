@@ -6,18 +6,21 @@ Our client is the finance team at PPF Corporation. We want to take them on a jou
 
 some of the challenges in working on this project are
 
-1. Ingesting the monthly CSVs stored on on premisa data getaway, modifying the combine function to remove header rows and dealing with 
+1. Process monthly CSV stored in 1 folder, modify 1 excel file consisting of many worksheets , modifying the combine function
 
-   dates in a different format to your local region. (E.g. working with US dates when on a PC with UK regional settings).
+   to remove header rows and dealing with dates in a different format to your local region.
 
-2. Bringing in Reference Data (Excel) including daily exchange rates: re-shaping and merging this with actuals (on date/Currency Code)
+   (E.g. working with US dates when on a PC with UK regional settings).
+
+3. Bringing in Reference Data (Excel) including daily exchange rates: re-shaping and merging this with actuals (on date/Currency Code)
+   
    to calculate values in Reporting Currency (US $).
 
-3. Creating the income statement measures which show Actual/Budget values, running totals and percentages all within the same column
+5. Creating the income statement measures which show Actual/Budget values, running totals and percentages all within the same column
 
-4. Creating a waterfall chart using the native waterfall visual and custom visuals (e.g. Zebra BI) for visual storytelling and variance analysis.
+6. Creating a waterfall chart using the native waterfall visual and custom visuals (e.g. Zebra BI) for visual storytelling and variance analysis.
    
-6. Development of key ratios (e.g. Cost:Income Ratio, Effective Tax Rate) and analysis of these by organizational unit/over
+7. Development of key ratios (e.g. Cost:Income Ratio, Effective Tax Rate) and analysis of these by organizational unit/over
   
    time by use of a bullet chart, scatter plot, line graph and matrix which interact with each other for cross-filter analysis
 
