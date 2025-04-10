@@ -34,3 +34,4 @@ Table of Content
 
 [2. Transform data](https://github.com/deddyandri/Financial-Reporting-w-Power-BI/wiki/2.-Transform-Data)
 
+[3. Loading table to the data model](https://github.com/deddyandri/Financial-Reporting-w-Power-BI/wiki/3.-Loading-tables-to-the-data-model)
